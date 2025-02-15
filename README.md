@@ -1,5 +1,9 @@
 # Practical Assignment 1 - PFL 2024/2025
 
+## Grade
+
+18.4/20
+
 ## Group Members and Contributions
 
 - **Filipe Gaio**
